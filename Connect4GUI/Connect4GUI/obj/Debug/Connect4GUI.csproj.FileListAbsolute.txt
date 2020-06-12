@@ -1,0 +1,4 @@
+C:\Users\Nick\Desktop\Connect4GUI\Connect4GUI\obj\Debug\Connect4GUI.Properties.Resources.resources
+C:\Users\Nick\Desktop\Connect4GUI\Connect4GUI\obj\Debug\Connect4GUI.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\Connect4GUI\Connect4GUI\obj\Debug\Connect4GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Connect4GUI\Connect4GUI\obj\Debug\Connect4GUI.csprojAssemblyReference.cache
